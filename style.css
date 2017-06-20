@@ -1,0 +1,81 @@
+body {
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    background-color: white;
+}
+
+a:link, a:visited{
+    color: black;
+    text-decoration: none;
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	font-size: 1em;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+
+
+.info > p {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    line-height: 26.4px;
+    font-size: 1em;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+}
+
+.headinfo {
+    height: 105px;
+}
+
+.info {
+    width: 30em;
+    position: absolute;
+    left: 30px;
+}
+
+.galery {
+    position: absolute;
+    right: 20px;
+    width: 83px;
+}
+
+.icons {
+    position: relative;
+    bottom: 0px;
+}
+
+.item {
+    min-width: 400px;
+}
+
+.header {
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5px;
+}
+
+
+#whoami {
+    display: none;
+    margin: auto;
+    max-width: 600px;
+}
+
+#whoami a:link, a:visited {
+    text-decoration: underline
+}
+
+.p-name {
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	font-size: 2em;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+    padding-left: 5px;
+    margin-bottom: 1vh;
+    margin-top: 3vh;
+}

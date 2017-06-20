@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Title of your page: could be your name</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+    </head>
+    <body>
+                <script>
+            function toggleDiv(id) {
+                var div = document.getElementById(id);
+                div.style.display = div.style.display == "block" ? "none" : "block";
+            }
+        </script>
+        <div class="h-card header">
+            <p class=p-name >
+                <a class="u-url u-uid" href="/">Your Name goes Here</a>
+                <a style="font-size: 0.5em" onclick="toggleDiv('whoami')"> more...</a>
+            </p>
+            <div id="whoami">
+                <p> Put your story here <p>
+            </div>
+            <div class="headinfo">
+                <div class="info">
+                    <p class="item">
+                        <i class="fa fa-fw fa-envelope email"></i>
+                        <a class=u-email href="mailto:youremail@bla.com">
+                            youremail@bla.com
+                        </a>
+                        /
+                        <a class=u-email href="mailto:anotherEmail@ifyouwant.com">
+                            anothermail@ifuwant.com
+                        </a>
+                    </p>
+                    <p class="item">
+                        <a class="u-key" rel=pgpkey href="/key.asc">
+                            <i class="fa fa-fw fa-key"></i> get your own key or del it
+                        </a>
+                    </p>
+                    <p class="item">
+                        <a href="">
+                            <i class="fa fa-fw fa-btc"></i> get your own BTC if you want
+                        </a>
+                    </p>
+                </div>
+                <div class="galery">
+                    <div class="icons">
+                        <a rel=me href=""><i class="fa fa-fw fa-flask"></i></a>
+                        <a rel=me href=""><i class="fa fa-fw fa-github"></i></a>
+                        <a rel=me href=""><i class="fa fa-fw fa-file-pdf-o"></i></a>
+                        <a rel=me href=""><i class="fa fa-fw fa-gears"></i></a>
+                        <a rel=me href=""><i class="fa fa-fw fa-medium"></i></a>
+                        <a rel=license height=15px href="https://creativecommons.org/publicdomain/zero/1.0/">
+                            <img src="Cc-zero.svg" width="15px" style="position: relative; top: 2px; left: 2px;">
+                        </a>
+                    </div>                
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
