@@ -3,7 +3,7 @@ body {
     background-color: white;
 }
 
-a:link, a:visited{
+a, a:link, a:visited {
     color: black;
     text-decoration: none;
     font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
@@ -28,17 +28,14 @@ a:link, a:visited{
 }
 
 .headinfo {
-    height: 105px;
 }
 
 .info {
     width: 30em;
-    position: absolute;
     left: 30px;
 }
 
 .galery {
-    position: absolute;
     right: 20px;
     width: 83px;
 }
@@ -62,7 +59,6 @@ a:link, a:visited{
 #whoami {
     display: none;
     margin: auto;
-    max-width: 600px;
 }
 
 #whoami a:link, a:visited {
