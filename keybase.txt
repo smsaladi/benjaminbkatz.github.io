@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/saladi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://shyam.saladi.org
+  * I am saladi (https://keybase.io/saladi) on keybase.
+  * I have a public key with fingerprint 0669 1F19 4CEA C84C 7516  E63B 5F7A DB2B AA5C E260
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01013cd2dd9ef463b49807a16bef98978be04f561d8996c01fd583955fa395e5d0210a",
+      "fingerprint": "06691f194ceac84c7516e63b5f7adb2baa5ce260",
+      "host": "keybase.io",
+      "key_id": "5f7adb2baa5ce260",
+      "kid": "01013cd2dd9ef463b49807a16bef98978be04f561d8996c01fd583955fa395e5d0210a",
+      "uid": "8b82a047ce6e9e8a542f1ccd1855cb19",
+      "username": "saladi"
+    },
+    "service": {
+      "hostname": "shyam.saladi.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1512855613,
+  "expire_in": 157680000,
+  "prev": "8878bb0f8f3a48d00311008b9e28a735eac2fb67f684169d566a127affc8ed37",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUltIFUEYPsdbaVrWQ2UXs30oQbOd3Z3Z2aMl4oOVmg9BSFin2Z3Z46buns45
+3hIzMbqQlQ8mEiIUBWYQXSCS7hekK0RhQReisqiwiDKhjGzW8q3H5mGG+f/v++b7
+//nbkqI9k73+LU8zestebfTeea971mWW5jcIukPrBV+DUMHGD1ZJWTjir7Co4BNE
+IALZoBKlGjMVJOuKhkWVAKQzU8OainUmKiZEgGJNQ4YITAqxrEFoEr4zSEUJiETI
+FEzLDrBQMGTZEVcWIQ2YQFMMRgysGCoEiHF1aKqE6pJOCDSYhEROLHfCLoOb00mY
+ZVkOj/GLf9zeP/D/2Xf1uBzWsURERTUYYhrDBCqSCQyDAgyhoQPNBYZZyCZVjKPD
+pJJQS2jMFHisxjKY21a3jol8eT2pyvqDynJCAc4OhpyIYziVPFseiQTDPpcdqQ+6
+8Fqm+/8K+XXLpryTnFHDQmHLsQUf4EgjYrnKAAKJO0JAzhRYXdAKMb/lIqCKsMiX
++w6rcevBvAPrdNHEpkwUTEVRBkAUsa4xCRNVhvxbJFNHqomwApBGIUIESCoxTQMz
+KquCW9tm2xF8CvdJAm5VVsAmkeoQExoTdnvlGI93smf+zIUxcdaClKIPN4uqZ77N
+npi+2Ch39DwJ8ckTkYHpk8ZKHr1++izxzOCtoSVvuzznf9Xs31f6eO+i4tq4ptX3
+Pr/ZPtD+Ab0IJLzy39px7cfQx3OXqvzegq+3Z7wOvyvubxrK6eup6H1YPje+OTlu
+dcrBQ7n3+7rLenpXvYt52bPh8unS1uHo953fC5euCfpGW3uudEVHdSgZqfBE9ODF
+43l3H8xqKb07vfDA4ufHPu25cDVxpdT3c7jLczh+fceVTe2xuSivW8m4XrdCac8R
+8sdIya6BG8uOfzu79vSUsZYvycmDn4xpI8VtrVcLpYv96adSq2BHrD2nxH7yZevs
++wXpU7vfjNQe3UY3HmmitmdDelr7zubOk1lLlmc3p23KmKebOReSRn8D
+=VlLz
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/saladi
+
+==================================================================
