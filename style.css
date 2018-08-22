@@ -1,6 +1,8 @@
 body {
     font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
     background-color: white;
+    /* transition-delay: .0001s; */
+
 }
 
 a, a:link, a:visited {
@@ -35,7 +37,8 @@ a, a:link, a:visited {
 }
 
 .gallery {
-    max-width: 83px;
+    max-width: 150px;
+    font-size: 150%;
 }
 
 .icons {
