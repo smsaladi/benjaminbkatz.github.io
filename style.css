@@ -32,7 +32,7 @@ a, a:link, a:visited {
 .headinfo {
 }
 
-.info {
+.info .inithidden {
     max-width: 90%;
 }
 
@@ -54,15 +54,19 @@ a, a:link, a:visited {
     border-bottom-color: black;
     border-bottom-style: solid;
     border-bottom-width: 0.5px;
+    margin-bottom: 15px;
 }
 
 
 #whoami {
-    display: none;
     margin: auto;
 }
 
-#whoami a:link, a:visited {
+.inithidden {
+    display: none;
+}
+
+.inithidden a:link, a:visited {
     text-decoration: underline
 }
 

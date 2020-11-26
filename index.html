@@ -44,7 +44,7 @@
         <a class="u-url u-uid" href="/">Shyam M Saladi</a>
         <a style="font-size: 0.5em" onclick="toggleDiv('whoami')"> about me...</a>
       </p>
-      <div id="whoami" class="row">
+      <div id="whoami" class="inithidden row">
         <div class="col-sm-4">
             <a href="images/puerto_rico_full.jpg">
               <img src="images/puerto_rico_web.jpg" class="img-responsive" alt="El Yunque">
@@ -128,8 +128,20 @@
                 <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Cc-zero.svg" width="20"
                  style="position: relative; bottom: 2px; left: 3px;" alt="CC zero">
             </a>
+            <a rel=me class="u-url" onclick="toggleDiv('land')">
+                <p class="fas fa-globe-americas"></p>
+            </a>
+
           </div>
         </div>
+      </div>
+    </div>
+
+    <div class="extrainfo">
+      <div id="land" class="inithidden col" onclick="toggleDiv('land')">
+        In the spirit of healing, I acknowledge that Chicagoland, the place of my upbringing, sits on the traditional homelands of the people of the Council of Three Fires, the Ojibwe, Potawatomi, and Odawa as well as the Menominee, Miami and Ho-Chunk nations.
+	It was also a site of trade, travel, gathering and healing for more than a dozen other Native tribes and is still home to over 100,000 tribal members in the state of Illinois.
+	Learn more about this and other <a href="https://www.native-land.ca">indigenous land in North America</a>.
       </div>
     </div>
   </body>
